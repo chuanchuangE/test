@@ -6,7 +6,7 @@ public class Pv {
 	private String ts;
 	private String param;
 	private int clientType;
-	
+	private int test;
 	public Pv(){
 		
 	}
